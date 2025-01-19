@@ -6,6 +6,12 @@
 
 ![](https://github-profile-trophy.vercel.app/?username=Louis3112&theme=monokai&no-frame=false&no-bg=true&margin-w=4)
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Louis3112/Louis3112/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Louis3112/Louis3112/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Louis3112/Louis3112/output/github-snake.svg" />
+</picture>
+
 ## :writing_hand:**About Me**  
 :grey_question: I’m a curious how **world** works on the back of a program.  
 :dart: I'm targeting to be a master of **problem-solving skills** and to be a **builder of amazing projects**.  
