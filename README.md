@@ -1,6 +1,6 @@
 # :wave: Hy, it's Cornelius Louis Nathan :exclamation:
 
-:man_in_tuxedo: **Junior Software Developer** | :earth_asia: **Surabaya, Indonesia**  
+:man_in_tuxedo: **Undergraduate IT** | :earth_asia: **Surabaya, Indonesia**  
 :classical_building: **State University of Surabaya *(Universitas Negeri Surabaya)*** | :star_struck: **Excited to learn how world works**  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=louis3112&label=Profile%20views&color=0e75b6&style=flat" alt="louis3112" /> </p>
 
