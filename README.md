@@ -37,7 +37,9 @@ It would be my pleasure to connect with me on :
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
 
 
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=louis3112&show_icons=true&locale=en&layout=compact" alt="louis3112" /></p>
+
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=louis3112&show_icons=true&locale=en" alt="louis3112" /></p>
 
