@@ -4,7 +4,7 @@
 :classical_building: **State University of Surabaya *(Universitas Negeri Surabaya)*** | :star_struck: **Excited to learn how world works**  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=louis3112&label=Profile%20views&color=0e75b6&style=flat" alt="louis3112" /> </p>
 
-![](https://github-profile-trophy.vercel.app/?username=Louis3112&theme=discord&no-frame=false&no-bg=true&margin-w=)
+![](https://github-profile-trophy.vercel.app/?username=Louis3112&theme=discord&no-frame=false&no-bg=true&margin-w=0)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Louis3112/Louis3112/output/github-snake-dark.svg" />
@@ -21,9 +21,9 @@
 
 It would be my pleasure to connect with me on : 
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](#)(https://instagram.com/crnl_ou) 
-[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](#)(https://linkedin.com/in/louis3112) 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](#)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](#https://instagram.com/crnl_ou)
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](#https://linkedin.com/in/louis3112)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](#https://mailto:corneliuslouis3112@gmail.com)
 
 
 ## :books: **Language and Tools**  
@@ -55,10 +55,9 @@ It would be my pleasure to connect with me on :
 - :hammer_and_wrench: **Development Tools (Others)**:
 
 [![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)](#)
-![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
-	[![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)](#)
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+[![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)](#)
+[![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?logo=google-cloud&logoColor=white)](#)
+[![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?logo=vercel&logoColor=white)](#)
 
 # :bar_chart: GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Louis3112&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false)<br/>
