@@ -4,7 +4,7 @@
 :classical_building: **State University of Surabaya *(Universitas Negeri Surabaya)*** | :star_struck: **Excited to learn how world works**  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=louis3112&label=Profile%20views&color=0e75b6&style=flat" alt="louis3112" /> </p>
 
-![](https://github-profile-trophy.vercel.app/?username=Louis3112&theme=discord&no-frame=false&no-bg=true&margin-w=0)
+![](https://github-profile-trophy.vercel.app/?username=Louis3112&theme=discord&no-frame=false&no-bg=true&margin-w=0&title=-Reviews,-Issues,-Stars)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Louis3112/Louis3112/output/github-snake-dark.svg" />
